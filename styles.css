@@ -1,1 +1,38 @@
 /* Write your CSS here! */
+img{
+    width: 50%;
+    height: 50%;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+h1 {
+    background-color: rgb(168, 161, 174);
+    text-align: center
+    
+}
+h2 {
+    background-color:rgb(169, 202, 187);opacity:0.6;
+    font-family: 'Notable', sans-serif;
+    padding: 15px;
+    margin-bottom: 15px;
+    }
+p {
+    margin-top: 15px;
+    color: rgb(245, 243, 237);
+    font-family: 'Playfair Display', serif;
+}
+
+li{ 
+    padding-top: 15px;
+    font-family: 'Playfair Display', serif;
+}
+
+ul{
+    padding-right: 30px;
+    font-family: 'Playfair Display', serif;
+}
+
+article {
+    background-color: #9999FF;
+}
